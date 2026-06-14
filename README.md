@@ -7,10 +7,12 @@ This repository presents a complete Machine Learning Operations (MLOps) workflow
  🚀 Project Links
 
 **GitHub Repository:**
-[Add GitHub Repository Link Here]
+https://github.com/g25ai1015-cloud/ML_OPS_MajorAssignment
 
 **Docker Hub Repository:**
-[Add Docker Hub Repository Link Here]
+https://hub.docker.com/repository/docker/damini123456/mlops-faces-app/general
+
+
 📌 Key Features & System Architecture
 
  Model Development (`dev` branch)
